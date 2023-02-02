@@ -19,7 +19,7 @@
 
 ### sᴜᴘᴘᴏʀᴛ
 <p align="center"><a href="https://t.me/zadkiel_network"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
-<p align="center"><a href="https://t.me/DEVBOTZ"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://t.me/zadkiel_network"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
 ## sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 🙏
 - [MOCA](https://github.com/Moca96)
